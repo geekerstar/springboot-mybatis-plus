@@ -7,6 +7,9 @@
     <groupId>org.example</groupId>
     <artifactId>springboot-mybatis-plus</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>springboot-mybatis-plus-quickstart</module>
+    </modules>
 
     <packaging>pom</packaging>
 
